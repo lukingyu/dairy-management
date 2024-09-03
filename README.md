@@ -1,6 +1,9 @@
 # dairy-management(国产奶制品管理系统-前端工程)
-`服务于dairy-shop`
+
+`此仓库服务于dairy-shop`
+
 `@author lukingyu`
+
 tips:Part of the personal graduation project comes from personal originality.
 
 This template should help get you started developing with Vue 3 in Vite.
